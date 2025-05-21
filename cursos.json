@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Programação Python",
+    "aulas": [
+      "Sintaxe",
+      "Funções",
+      "POO"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Banco de Dados",
+    "aulas": [
+      "SQL",
+      "Modelagem",
+      "Consultas"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Análise de Dados",
+    "aulas": [
+      "Pandas",
+      "Visualização",
+      "Estatística"
+    ]
+  }
+]

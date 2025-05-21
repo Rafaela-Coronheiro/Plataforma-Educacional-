@@ -1,0 +1,50 @@
+[
+  {
+    "aluno_id": 1,
+    "curso_id": 1,
+    "nota": 10.0,
+    "data": "20/05/2025 22:36"
+  },
+  {
+    "aluno_id": 1,
+    "curso_id": 2,
+    "nota": 9.0,
+    "data": "20/05/2025 22:36"
+  },
+  {
+    "aluno_id": 1,
+    "curso_id": 3,
+    "nota": 9.0,
+    "data": "20/05/2025 22:36"
+  },
+  {
+    "aluno_id": 2,
+    "curso_id": 1,
+    "nota": 5.0,
+    "data": "20/05/2025 22:36"
+  },
+  {
+    "aluno_id": 2,
+    "curso_id": 3,
+    "nota": 8.0,
+    "data": "20/05/2025 22:37"
+  },
+  {
+    "aluno_id": 3,
+    "curso_id": 2,
+    "nota": 8.0,
+    "data": "20/05/2025 22:37"
+  },
+  {
+    "aluno_id": 3,
+    "curso_id": 1,
+    "nota": 10.0,
+    "data": "20/05/2025 22:37"
+  },
+  {
+    "aluno_id": 4,
+    "curso_id": 3,
+    "nota": 5.0,
+    "data": "20/05/2025 23:14"
+  }
+]
